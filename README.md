@@ -1,2 +1,2 @@
-# portfolio
-examples of python, sql and data analysis tasks
+# Portfolio
+Examples of python, sql and data analysis tasks.
