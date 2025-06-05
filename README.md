@@ -25,3 +25,10 @@ Examples of python, sql and data analysis tasks.
 - frequency of the word — part 1
 - frequency of the word — part 2
 - the area of the triangle
+
+
+## Getting data using the API
+
+ - execute HTTP requests (POST, GET) using the Requests library 
+ - work with .xlsx and .csv files using Pandas
+
